@@ -16,6 +16,6 @@
 
     The following is a screenshot taken after following these same instructions.
     
-![png](imagen1.png)
+![png](image1.png)
 
 Thanks for your time and for reading my CV.
