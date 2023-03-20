@@ -12,8 +12,8 @@
 
 5. Download and filter by the "NOMBRE DEL PROGRAMA ACADEMICO" column. Select "FISICA".
 
-My name shows up in the 10146 row.
+\t My name shows up in the numbered row 10146.
 
-The file image1.png in this folder is a screenshot taken after following these same instructions.
+\t The file image1.png in this folder is a screenshot taken after following these same instructions.
 
 Thanks for your time and for reading my CV.
