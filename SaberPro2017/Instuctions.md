@@ -6,7 +6,7 @@ Go to https://www2.icfes.gov.co/resultados_del_examen_saber_pro
 
 Click on "Distinciones"
 
-Click on #Mejores Saber Pro 2011 en adelante"
+Click on "Mejores Saber Pro 2011 en adelante"
 
 Click on the Excel File "Mejores saber pro 2016"
 
