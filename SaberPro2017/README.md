@@ -14,6 +14,8 @@
 
     My name shows up in the numbered row 10146.
 
-    The file image1.png in this folder is a screenshot taken after following these same instructions.
+    The following is a screenshot taken after following these same instructions.
+    
+![png](imagen1.png)
 
 Thanks for your time and for reading my CV.
